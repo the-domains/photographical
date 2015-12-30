@@ -1,0 +1,14 @@
+layout_spectrum: 0.2862513
+color:
+  saturation: 0.7406015
+  brandStrength: 0
+  lightness: 0.9113855
+  brandColors:
+    - '#F6F9FA'
+    - '#2F3238'
+    - '#808688'
+    - '#3C6589'
+    - '#703A53'
+  rhythmicContrast: 0.3668098
+typography_spectrum: 0.7406015
+name: Photographical
